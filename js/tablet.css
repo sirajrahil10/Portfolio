@@ -8,9 +8,9 @@ display: flex;
     margin: 10px;
     padding: 2px;
 }
-#home{
+/* #home{
     height: 800px;
-}
+} */
 /* About */
 #pic{
 flex-direction: column;
